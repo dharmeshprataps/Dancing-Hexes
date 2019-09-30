@@ -1,1 +1,2 @@
 # Dancing-Hexes
+$yes
